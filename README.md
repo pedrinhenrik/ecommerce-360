@@ -13,7 +13,7 @@ Baseado no [Brazilian E-Commerce Public Dataset (Kaggle)](https://www.kaggle.com
 [🔗 Abrir no Tableau](tableau/Dashboard_Risco_logistico_financeiro.twb)  
 
 ### Dashboard de Atraso  
-![Dashboard Atraso](docs/DashBoard_Atraso)  
+![Dashboard Atraso](docs/DashBoard_Atraso.png)  
 *Visão logística com % atrasos, tempo médio de atraso, distribuição por UF/cidade/seller e tendência temporal.*  
 [🔗 Abrir no Tableau](tableau/Dashboard_Atraso.twb)  
 
