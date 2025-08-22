@@ -121,3 +121,6 @@ Essas análises foram fundamentais para validar a utilidade prática do modelo e
 - Revisão de performance SQL (EXPLAIN ANALYZE)  
 
 ---
+
+## 👤 Autor  
+Este projeto foi desenvolvido por [**Pedro Liberal**](https://github.com/pedrinhenrik)
