@@ -10,12 +10,12 @@ Baseado no [Brazilian E-Commerce Public Dataset (Kaggle)](https://www.kaggle.com
 ### Dashboard de Atraso  
 ![Dashboard Atraso](docs/DashBoard_Atraso.png)  
 *Visão logística com % atrasos, tempo médio de atraso, distribuição por UF/cidade/seller e tendência temporal.*  
-[🔗 Abrir no Tableau](tableau/Dashboard_Atraso.twbx)  
+[🔗 Abrir no Tableau](tableau/Dashboard_Atraso.twb)  
 
 ### Dashboard de Avaliações / NPS  
 ![Dashboard Feedback](docs/DashBoard_Review.png)  
 *Visão de satisfação do cliente com NPS, distribuição de notas, % positivas/negativas e ranking de categorias com pior avaliação.*  
-[🔗 Abrir no Tableau](tableau/Dashboard_Review.twbx)  
+[🔗 Abrir no Tableau](tableau/Dashboard_Review.twb)  
 
 ### Dashboard de Risco Logístico  
 ![Dashboard Risco](docs/DashBoard_Preview.png)  
