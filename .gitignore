@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+
+# Dados brutos
+data/raw/
+data/processed/
+
+# Notebooks temporários
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Variáveis de ambiente
+.env
