@@ -13,9 +13,9 @@ Baseado no [Brazilian E-Commerce Public Dataset (Kaggle)](https://www.kaggle.com
 [🔗 Abrir no Tableau](tableau/Dashboard_Atraso.twbx)  
 
 ### Dashboard de Avaliações / NPS  
-![Dashboard Feedback](docs/DashBoard_Review.png)  
+![Dashboard Feedback](docs/Dashboard_Review.png)  
 *Visão de satisfação do cliente com NPS, distribuição de notas, % positivas/negativas e ranking de categorias com pior avaliação.*  
-[🔗 Abrir no Tableau](tableau/DashBoard_Review.twbx)  
+[🔗 Abrir no Tableau](tableau/Dashboard_Review.twbx)  
 
 ### Dashboard de Risco Logístico  
 ![Dashboard Risco](docs/DashBoard_Preview.png)  
