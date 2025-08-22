@@ -7,6 +7,11 @@ Baseado no [Brazilian E-Commerce Public Dataset (Kaggle)](https://www.kaggle.com
 
 ## 🖼️ Dashboards  
 
+### Dashboard de Risco Logístico  
+![Dashboard Risco](docs/DashBoard_Preview.png)  
+*Visão integrada de risco logístico com KPIs de alto risco, atrasos detectados, performance do modelo e impacto em receita.*  
+[🔗 Abrir no Tableau](tableau/Dashboard_Risco_logistico_financeiro.twb)  
+
 ### Dashboard de Atraso  
 ![Dashboard Atraso](docs/DashBoard_Atraso.png)  
 *Visão logística com % atrasos, tempo médio de atraso, distribuição por UF/cidade/seller e tendência temporal.*  
@@ -16,11 +21,6 @@ Baseado no [Brazilian E-Commerce Public Dataset (Kaggle)](https://www.kaggle.com
 ![Dashboard Feedback](docs/DashBoard_Review.png)  
 *Visão de satisfação do cliente com NPS, distribuição de notas, % positivas/negativas e ranking de categorias com pior avaliação.*  
 [🔗 Abrir no Tableau](tableau/Dashboard_Review.twb)  
-
-### Dashboard de Risco Logístico  
-![Dashboard Risco](docs/DashBoard_Preview.png)  
-*Visão integrada de risco logístico com KPIs de alto risco, atrasos detectados, performance do modelo e impacto em receita.*  
-[🔗 Abrir no Tableau](tableau/Dashboard_Risco_logistico_financeiro.twb)  
 
 ---
 
