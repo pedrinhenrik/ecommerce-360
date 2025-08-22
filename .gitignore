@@ -1,16 +1,24 @@
-# Ambiente virtual
+# Ambientes virtuais
 .venv/
+venv/
 
-# Dados brutos
-data/raw/
-data/processed/
+# Arquivos de configuração do VSCode
+.vscode/
 
-# Notebooks temporários
-.ipynb_checkpoints/
-
-# Python
+# Arquivos temporários / cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.DS_Store
+.ipynb_checkpoints/
 
-# Variáveis de ambiente
+# Arquivos de ambiente
 .env
+
+# Dados brutos (se quiser manter fora do repositório)
+data/raw/*
+!data/README.md
+
+# Arquivos de log
+*.log
